@@ -12,6 +12,7 @@
 
 | # | 文件 / File | 内容简介 / Description |
 |---|---|---|
+| 🔑 | [**使用说明_CN.md**](./使用说明_CN.md) | **👈 先读这个！** 全中文使用指南：文件总览、学习顺序、背诵技巧、分阶段备考计划、重点记忆卡片<br>**Read this first!** Complete Chinese guide on how to use all materials |
 | 0 | [00_knowledge_map.md](./00_knowledge_map.md) | 课程知识图谱（培养目标 → 课程模块 → 能力产出）<br>Program knowledge map: outcomes → modules → competencies |
 | 1 | [01_course_notes/01_geo_foundations.md](./01_course_notes/01_geo_foundations.md) | 地理学基础：新地理研究方法、环境系统、应用地理数学、地统计学<br>Geo Foundations: New Research Methods, Environmental System, Applied Geomathematics, Geostatistics |
 | 2 | [01_course_notes/02_management_legal.md](./01_course_notes/02_management_legal.md) | 管理与法律：管理技能、数据保护、空间与社会、项目管理<br>Management & Legal: Management, Data Protection, Space & Society, Project Management |
